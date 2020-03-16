@@ -30,6 +30,8 @@ nsenter -t pid -n command
 
 [cert manager](https://github.com/jetstack/cert-manager) - Kubernetes add-on to automate the management and issuance of TLS certificates
 
+[metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
+
 ## Red team
 [hack the box](https://www.hackthebox.eu/) - Learn penetration testing with labs.
 

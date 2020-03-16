@@ -28,6 +28,8 @@ nsenter -t pid -n command
 
 [openebs](https://github.com/openebs/openebs) - Native Kubernetes storage solution.
 
+[cert manager](https://github.com/jetstack/cert-manager) - Kubernetes add-on to automate the management and issuance of TLS certificates
+
 ## Red team
 [hack the box](https://www.hackthebox.eu/) - Learn penetration testing with labs.
 

@@ -32,6 +32,8 @@ nsenter -t pid -n command
 
 [metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 
+[resource cosnumer](https://github.com/kubernetes/kubernetes/tree/master/test/images/resource-consumer) - A tool which allows to generate cpu/memory utilization in a container.
+
 ## Red team
 [hack the box](https://www.hackthebox.eu/) - Learn penetration testing with labs.
 

@@ -9,9 +9,6 @@ A list of useful tools used over times on different projects. Feel free to open 
 
 ## Docker
 [nsenter](http://man7.org/linux/man-pages/man1/nsenter.1.html) - Run a program within the namespaces of other processes.
-```bash
-nsenter -t pid -n command
-```
 
 ## Kubernetes
 [k9s](https://github.com/derailed/k9s) - Manage k8s in style with this CLI.

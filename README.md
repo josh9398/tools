@@ -16,6 +16,8 @@ nsenter -t pid -n command
 ## Kubernetes
 [k9s](https://github.com/derailed/k9s) - Manage k8s in style with this CLI.
 
+[lens](https://github.com/lensapp/lens) - Standalone IDE to take control of your Kubernetes clusters
+
 [kubectx](https://github.com/ahmetb/kubectx) - Switch between clusters and namespaces.
 
 [krew](https://github.com/kubernetes-sigs/krew) - Package manager for kubectl plugins.

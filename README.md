@@ -33,8 +33,12 @@ A list of useful tools used over times on different projects. Feel free to open 
 
 [resource cosnumer](https://github.com/kubernetes/kubernetes/tree/master/test/images/resource-consumer) - A tool which allows to generate cpu/memory utilization in a container.
 
+[fission](https://github.com/fission/fission) - Serverless framework for Kubernetes.
+
 ## Red team
 [hack the box](https://www.hackthebox.eu/) - Learn penetration testing with labs.
+
+[bloodhound](https://github.com/BloodHoundAD/BloodHound) - Reveal the hidden and often unintended relationships within an Active Directory.
 
 ## Office 365
 [O365 webhook](https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/connectors-using) - Send Teams webhooks.

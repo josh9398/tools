@@ -42,6 +42,9 @@ A list of useful tools used over times on different projects. Feel free to open 
 
 [bloodhound](https://github.com/BloodHoundAD/BloodHound) - Reveal the hidden and often unintended relationships within an Active Directory.
 
+## Secrets
+[blackbox] (https://github.com/StackExchange/blackbox) - Safely store secrets in a VCS repo.
+
 ## Office 365
 [O365 webhook](https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/connectors-using) - Send Teams webhooks.
 

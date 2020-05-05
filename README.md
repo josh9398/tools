@@ -35,6 +35,8 @@ A list of useful tools used over times on different projects. Feel free to open 
 
 [fission](https://github.com/fission/fission) - Serverless framework for Kubernetes.
 
+[kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunts for security weaknesses in Kubernetes clusters
+
 ## Red team
 [hack the box](https://www.hackthebox.eu/) - Learn penetration testing with labs.
 

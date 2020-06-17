@@ -37,6 +37,8 @@ A list of useful tools used over times on different projects. Feel free to open 
 
 [kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunts for security weaknesses in Kubernetes clusters
 
+[kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Designed to be intentionally vulnerable cluster environment to learn and practice Kubernetes security.
+
 ## Red team
 [hack the box](https://www.hackthebox.eu/) - Learn penetration testing with labs.
 
